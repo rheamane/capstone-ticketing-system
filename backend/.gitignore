@@ -10,3 +10,11 @@ logs/
 
 # npm package lock files
 package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific settings
+.vscode/
+.idea/
